@@ -1,14 +1,15 @@
-## Introduction
+## References
+#### Books
+-  A. Chakrabarti, Circuit Theory (Analysis and Synthesis). Fifth Edition : 2006, Dhanpat Rai and Co.
+-  A. Bruce Carlson, Circuits. First Reprint :2002, Thomson Asia Pte Ltd.
+-  Parker Smith, Problems in Electrical Engineering. Ninth Edition :2003 , M/s Constable and Company, London.
 
-<div align="center">
-<img src="images/iitkgp.png" width="10%">
-</div>
+#### Papers
 
-  <b>Discipline | <b> Electrical Engineering 
-:--|:--|
-<b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Q meter Experiment**
+#### NPTEL Lectures
+https://nptel.ac.in/
 
+# People
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
 :--|:--|
@@ -26,4 +27,4 @@ SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department
 3 | **Tanmoy Dam** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur |
  4 | **Jogendra Nath Kundu** | Developer | Project Engineer | Department of Electrical Engineering | IIT Kharagpur |
  5 | **Anirban Nanda** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur | 
-6 | **Subhasis Mahata** |  AWS Integration Engineer  | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur |
+ 6 | **Subhasis Mahata** |  AWS Integration Engineer  | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur |
