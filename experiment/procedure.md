@@ -1,19 +1,30 @@
 ## Procedure
 
-<p align="center">
+<div align="center">
 
-![Rm501 Figure](images/pic1.jpg)
+![Rm501 Figure](images/wienrobinsonbridge1.jpg)
 
-***Fig 1: Circuit Diagram for Q meter experiment***
-</p>
-- Set the Shunt Resistance (Rsh) value as small as possible (Say 0.02 Ohm). Set all the parameters (R, L, C) by yourself.
- </br>
-- Set the voltage value of the oscillator (E=10 V).
- </br>
-- At f=100 Hz. Check the value of voltage drop across capacitor. (EC).
- </br>
-- Change the frequency until EC reach at the maximum value. Then calculate the value Q measured using this formula `Q_(meas)=(omega_0L)/(R+R_(sh))`.
- </br>
-- Calculate the true value of unknown coil by using this formula `Q_(true)=(omega_0L)/R`
- </br>
-- First resonance occurs due to frequency (say f1). Note down the value of tuning capacitor C. (say C1). Double the input frequency (f1) (say f2=2*f1). Change the tuning capacitor value until resonance occurs. Note down the value of tuning capacitor C. (say C2). Discharge capacitance (Cd) would be =(C1-4*C2)/3.
+***Fig. 1. Circuit digram of experimental set-up for frequency measurement by Wien Robinsons Bridge.***
+</div>
+#1 Connect the bridge as per diagram.
+                Keep 
+                 \[R_4 = 2*R_3 (say R_3 = 1000 \Omega )\]
+                Set the dial of the signal generator to read 500 Hz. Apply the signal generator voltage to the bridge.
+                Keep
+                \[C_1 = C_2 = 0.1 \mu F\]
+                and adjust resistance R<sub>4</sub> and R<sub>3</sub>
+                together such that they always read the same value and at balance note the component values and calculate the frequency by
+                \[F_c = \frac{1}{2 \pi RC} where\]
+                 \[R = R_1 = R_2 and\]
+                \[C = C_1 = C_2\]
+                The percentage error between stimulated bridge frequency (F<sub>d</sub>) and the (voltage) source frequency (F<sub>s</sub>) is calculated
+                with respect to F<sub>d</sub> as
+                 \[\%Error = \frac{(F_d - F_c) *100}{F_d}\]
+                where F<sub>d</sub> is also called the dial frequency. Repeat procedure for various dial frequencies.
+                
+                
+ <br/>
+ #2 Set the values of the components to give balance of a setting of 1000 Hz. Note the reading of the detector for different dial frequencies on either side in small steps, keeping the output amplitude of the signal generator constant. Draw
+                a graph showing the relation between the unbalanced voltage vs. dial frequency.
+ 
+
