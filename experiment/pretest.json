@@ -2,29 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the number of degree of freedom (DOF) in Movemaster RM-501?",
+      "question": "Frequency can be measured by using",
       "answers": {
-        "a": "5",
-        "b": "6",
-        "c": "7",
-        "d": "None of this"
+        "a": "Maxwell's bridge",
+        "b": "Schering bridge",
+        "c": "Heaviside campbell bridge",
+        "d": "Wiens bridge"
       },
       "explanations": {
-        "a": "You have choosen option (a). The answer is correct",
-        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
-        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
-        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the maximum paylod of the Robot?",
+      "question": "A bridge circuit works at a frequency of 2 khz. Which of the following can be used as detectors for detection of null conditions in the bridge",
       "answers": {
-        "a": "2 kg",
-        "b": "1.2 kg",
-        "c": "1 kg",
-        "d": "1.5 kg"
+        "a": "vibration galvanometers and headphones",
+        "b": "headphones and tunable amplifier",
+        "c": "vibration galvanometers and tunable amplifier",
+        "d": "vibration galvanometers ,headphones and tunable amplifier"
       },
       "explanations": {
         "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
