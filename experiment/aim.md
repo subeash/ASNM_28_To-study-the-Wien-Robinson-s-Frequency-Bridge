@@ -1,2 +1,2 @@
 ## Objective
-- To determine accurate Quality Factor of an unknown coil.
+- To Study Wien Robinson's frequency Bridge. 
