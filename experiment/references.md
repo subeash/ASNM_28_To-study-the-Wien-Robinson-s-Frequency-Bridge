@@ -1,8 +1,6 @@
 ## References
 #### Books
--  A. Chakrabarti, Circuit Theory (Analysis and Synthesis). Fifth Edition : 2006, Dhanpat Rai and Co.
--  A. Bruce Carlson, Circuits. First Reprint :2002, Thomson Asia Pte Ltd.
--  Parker Smith, Problems in Electrical Engineering. Ninth Edition :2003 , M/s Constable and Company, London.
+- A.K. Sawhney, Electrical and Electronic Measurements and Instrumentation, Reprinit 2010 : Dhanpat Rai & Co.
 
 #### Papers
 
